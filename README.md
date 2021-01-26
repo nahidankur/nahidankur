@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/nahidankur-visit-brightgreen)](http://nahidankur.github.io)
 [![Linkedin Follow](https://img.shields.io/badge/Follow%20Me-linkedin-blue)](https://www.linkedin.com/in/nahid-ankur-3b285a18a)
 
-## I'm a Full Stack Web Developer ; still learning and will be learning till my death
+## I'm a Full Stack Web Developer | Still Learning | Will Be Learning till My Death
 
 - 🔭 I am working from home now!
 - 🌱 I’m currently learning everything 🤣
