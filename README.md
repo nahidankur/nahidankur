@@ -38,8 +38,8 @@
 ---
 
 
-[website]: http://nahidankur.github.io/
+<!-- [website]: http://nahidankur.github.io/
 [twitter]: https://twitter.com/nahidankur
 [youtube]: https://www.youtube.com/channel/UCdhhSr436DUjlmhuY8Lmo0A
 [instagram]: https://www.instagram.com/nahidankur/
-[linkedin]: https://www.linkedin.com/in/nahid-ankur-3b285a18a
+[linkedin]: https://www.linkedin.com/in/nahid-ankur-3b285a18a -->
