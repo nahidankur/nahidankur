@@ -1,7 +1,7 @@
 ### Hi! I am Nahid Karim Ankur. [nahidankur.github.io][website] 👋
 
 [![Website](https://img.shields.io/badge/nahidankur-visit-brightgreen)](http://nahidankur.github.io)
-[![Twitter Follow](https://img.shields.io/linkedin/follow/codeSTACKr?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nahid-ankur-3b285a18a/)
+[![Linkedin Follow](https://img.shields.io/badge/Follow%20Me-linkedin-blue)](https://www.linkedin.com/in/nahid-ankur-3b285a18a/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
