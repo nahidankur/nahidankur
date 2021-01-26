@@ -6,7 +6,7 @@
 ## I'm a Full Stack Web Developer | Still Learning | Will Be Learning till My Death
 
 - 🔭 I am working from home now!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m a very quick learner 
 - 👯 I’m looking to contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and code
 
