@@ -9,7 +9,7 @@
 - 🌱 I’m a very quick learner 
 - 👯 I’m looking to contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and code
-
+- ⚡ I spend my free time by watching motovlog or movie
 ### Connect with me:
 
 [<img align="left" alt="nahidankur.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
